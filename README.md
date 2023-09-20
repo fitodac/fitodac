@@ -1,9 +1,7 @@
-# Hola, soy Abel da Cunha
-Mas conocido como @fitodac
+# Hola, soy @fitodac
 
 ## ¿Quién soy?
-Soy un programador full stack orientado a front-end.
-Cuento con más de 10 años de experiencia como freelance, lo que me ha llevado a realizar proyectos web completos, desde su concepción gráfica, realización y despligue en producción.
+Soy un programador full stack orientado a front-end con más de 6 años de experiencia.
 
 ## ¿Qué hago?
 Encuentro la mejor solución a las necesidades de los proyectos en los que participo, aportando calidad de código y haciendo grandes compañeros de trabajo en el proceso.
@@ -19,7 +17,6 @@ Encuentro la mejor solución a las necesidades de los proyectos en los que parti
 - PHP
 - Laravel
 
-Además cuento con un background de diseño gráfico, con conocimientos en la Suite de Adobe, Figma y Sketch App.
 
 ## Formación
 Tengo **más de 100 cursos completados en Platzi** y 4 carreras terminadas en la misma plataforma:
@@ -28,9 +25,8 @@ Tengo **más de 100 cursos completados en Platzi** y 4 carreras terminadas en la
 - [Desarrollo WordPress](https://platzi.com/p/fitodac/ruta/37-desarrollo-wordpress/diploma/detalle/)
 - [Autoconocimiento](https://platzi.com/p/fitodac/ruta/7534-autoconocimiento/diploma/detalle/)
 
-Actualmente me encuentro terminando la carrera full-stack en el Henry Bootcamp.
+Bootcamp de Henry completado
 
--
 Siempre es un buen momento para contactar conmigo. No dudes en escribirme a mi cuenta de [LinkedIn](https://www.linkedin.com/in/fitodac/).
 
 #¡Nos vemos en el futuro!
