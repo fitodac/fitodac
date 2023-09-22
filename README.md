@@ -1,7 +1,7 @@
 # Hola, soy @fitodac
 
 ## ¿Quién soy?
-Soy un programador full stack orientado a front-end con más de 6 años de experiencia.
+Soy un programador full stack orientado a front-end.
 
 ## ¿Qué hago?
 Encuentro la mejor solución a las necesidades de los proyectos en los que participo, aportando calidad de código y haciendo grandes compañeros de trabajo en el proceso.
