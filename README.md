@@ -1,3 +1,4 @@
+<!--
 # Hola, soy @fitodac
 
 ## ¿Quién soy?
@@ -30,4 +31,4 @@ Bootcamp de Henry completado
 Siempre es un buen momento para contactar conmigo. No dudes en escribirme a mi cuenta de [LinkedIn](https://www.linkedin.com/in/fitodac/).
 
 #¡Nos vemos en el futuro!
-
+-->
